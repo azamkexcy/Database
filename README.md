@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kayzuhosting/Nakamasa-Ichika/main/uploader/7060f23526.png" width="2100" alt="Project Banner"/>
+  <img src="https://raw.githubusercontent.com/kayzuhosting/Shiroko-Multidevice/main/database/64f150dc8d.jpg" width="2100" alt="Project Banner"/>
 </p>
 
 <p align="center">
@@ -23,9 +23,26 @@
 
 ---
 
-## Base allbackup fitur
-- Scrape
-- Plugin
+## 👤 Tentang Saya
+
+Halo semuanya!  
+Saya **Kay Ramadhan** (Kayzu), pengembang bot WhatsApp yang aktif di dunia pemrograman open-source.
+
+- 🎯 **Fokus:** Bot WhatsApp, API, & Tool Otomatisasi  
+- 📍 **Domisili:** 🇮🇩 Indonesia (Sumatera)  
+- 🧠 **Skill:** Java Script,Fiks eror,Instalasi Penerangan,panel,Pembelajaran sederhana dan lain-lain
+- 🔧 **Aktif:** Kolaborasi proyek, bantu komunitas digital
+
+---
+
+## ✨ Fitur
+
+- ✅ Bot WhatsApp aktif 24 jam
+- ✅ Banyak command seru & auto-update
+- ✅ Bisa dijalankan di Termux/NodeJS
+- ✅ Gratis & open-source
+
+---
 
 <div align="center">
 <details>
